@@ -13,6 +13,7 @@
 
 <a href="https://github.com/sameera-7-hash/OOPs-CP-frontend"><img alt="Frontend repo" src="https://img.shields.io/badge/Frontend-React%20app-149ECA?style=flat-square&logo=github"></a>
 <a href="https://github.com/sameera-7-hash/OOPs-CP-backend"><img alt="Backend repo" src="https://img.shields.io/badge/Backend-C%2B%2B17%20API-00599C?style=flat-square&logo=github"></a>
+<a href="https://oops-cp-backend-1.onrender.com/"><img alt="Render URL" src="https://img.shields.io/badge/Backend-Live%20on%20Render-46E3B7?style=flat-square&logo=render"></a>
 <img alt="English and Hindi" src="https://img.shields.io/badge/UI-English%20%7C%20%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-F4B400?style=flat-square">
 <img alt="AES-256" src="https://img.shields.io/badge/records-AES--256%20%2B%20SHA--256%20chain-721412?style=flat-square&logo=openssl">
 
